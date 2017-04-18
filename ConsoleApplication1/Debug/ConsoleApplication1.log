@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+e:\projects\a-star\consoleapplication1\consoleapplication1.cpp(187): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\projects\a-star\consoleapplication1\consoleapplication1.cpp(237): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> E:\Projects\A-Star\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\Projects\A-Star\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
